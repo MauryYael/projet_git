@@ -1,0 +1,3 @@
+girafe
+zebre
+lion
