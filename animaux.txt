@@ -1,4 +1,4 @@
 girafe
-chat
+chat + chien
 zebre
 lion
