@@ -1,3 +1,4 @@
 girafe
+chien
 zebre
 lion
